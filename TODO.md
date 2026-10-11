@@ -3,8 +3,8 @@
 > **Objectif :** Tracer votre parcours de professionnalisation, documenter vos réalisations pratiques et préparer le dossier numérique obligatoire pour l'examen final.
 
 ## 🏗️ Phase 1 : Initialisation de l'identité professionnelle
-- [ ] Créer ou mettre à jour mon profil professionnel (LinkedIn, GitHub) pour gérer mon identité numérique.
-- [ ] Définir mon environnement d'apprentissage personnel et identifier mes sources de veille informationnelle.
+- [x] Créer ou mettre à jour mon profil professionnel (LinkedIn, GitHub) pour gérer mon identité numérique. → [GitHub](https://github.com/Timothy-Valentin), [LinkedIn](https://www.linkedin.com/in/timothyvalentin/), [portfolio](https://timothy-valentin.github.io)
+- [x] Définir mon environnement d'apprentissage personnel et identifier mes sources de veille informationnelle. → [méthode et sources de veille](https://timothy-valentin.github.io/veille/methodologie-outils-veille/)
 - [ ] Télécharger et stocker le modèle officiel du tableau de synthèse des réalisations professionnelles.
 
 ## 🔄 Phase 2 : Capitalisation après chaque TP / Projet d'Atelier
@@ -15,7 +15,7 @@
 
 ## 🏢 Phase 3 : Valorisation des périodes de stage
 - [ ] Récupérer l'attestation de stage (ou certificat de travail) dûment signée et consigner les bilans d'activités hebdomadaires.
-- [ ] Transformer les missions de stage vécues en entreprise en fiches de réalisations concrètes pour alimenter le portfolio.
+- [x] Transformer les missions de stage vécues en entreprise en fiches de réalisations concrètes pour alimenter le portfolio. → [fiche du stage de 1re année](https://timothy-valentin.github.io/realisations/deploiement-reseau-nouveau-batiment-justice/)
 
 ## 🚀 Phase 4 : Amélioration continue et Préparation à l'Oral
 - [ ] Analyser les écarts entre mes compétences actuelles et les exigences du référentiel pour cibler mes besoins de formation.
