@@ -57,8 +57,8 @@ Ce document assure la traçabilité de votre montée en compétences sur le **Bl
 
 ### Activité 1.3 : Développer la présence en ligne de l'organisation
 
-- [ ] ~~**S12 — Technologies et programmation Web :** normes HTML/CSS, langages clients/serveurs, requêtage et manipulation de données, déploiement et paramétrage d'un CMS, conventions d'écriture et référencement (SEO).~~  
-  *Preuve / Contexte de validation :* 
+- [x] **S12 — Technologies et programmation Web :** normes HTML/CSS, langages clients/serveurs, requêtage et manipulation de données, déploiement et paramétrage d'un CMS, conventions d'écriture et référencement (SEO).  
+  *Preuve / Contexte de validation :* Bases de HTML et de CSS apprises en cours ; première version de mon portfolio commencée avec le CMS WordPress, puis abandonnée au profit d'un site statique publié sur GitHub Pages — [fiche Portfolio](https://timothy-valentin.github.io/realisations/portfolio-github-pages/). À approfondir : langages côté serveur, requêtage de données, référencement.
 
 - [ ] ~~**S13 — Cadre économique et juridique du Web :** e-réputation d'une organisation, responsabilités respectives de l'éditeur et de l'hébergeur, mentions légales, conditions générales d'utilisation (CGU), conformité RGPD appliquée au web, droits sur les contenus et gestion des noms de domaine.~~  
   *Preuve / Contexte de validation :* 
