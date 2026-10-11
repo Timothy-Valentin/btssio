@@ -25,8 +25,8 @@ Ce document assure la traçabilité de votre montée en compétences sur le **Bl
 - [ ] ~~**S3 — Disponibilité et continuité d'activité :** enjeux techniques, économiques et juridiques de la disponibilité ; plans de continuité (PCA) et plans de reprise d'activité (PRA).~~  
   *Preuve / Contexte de validation :* 
 
-- [ ] ~~**S4 — Sauvegardes et restaurations :** typologies (totale, incrémentale, différentielle), supports physiques et logiques, stratégies de sauvegarde et protocoles de test de restauration.~~  
-  *Preuve / Contexte de validation :* 
+- [x] **S4 — Sauvegardes et restaurations :** typologies (totale, incrémentale, différentielle), supports physiques et logiques, stratégies de sauvegarde et protocoles de test de restauration.  
+  *Preuve / Contexte de validation :* Sauvegarde des machines virtuelles depuis Proxmox VE, puis copie sur mon ordinateur personnel pour disposer d'un exemplaire hors du serveur — [fiche Réseau d'entreprise complet](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/). Test de restauration : à réaliser.
 
 - [ ] ~~**S5 — Cadre juridique et contractuel du patrimoine :** typologie des licences logicielles, tarification, contrats de prestation, obligations légales d'archivage des données, valeur juridique de la charte informatique et responsabilité du salarié utilisateur.~~  
   *Preuve / Contexte de validation :* 
