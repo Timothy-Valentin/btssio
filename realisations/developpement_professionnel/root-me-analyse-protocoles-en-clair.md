@@ -23,6 +23,7 @@ J’ai mené les exercices en autonomie et synthétisé les enseignements pour l
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/root-me-analyse-protocoles-en-clair/)
+- [Profil public et progression sur Root-Me](https://www.root-me.org/TimothyValentin).
 
 ## 6. Compétences du bloc 1 mobilisées
 

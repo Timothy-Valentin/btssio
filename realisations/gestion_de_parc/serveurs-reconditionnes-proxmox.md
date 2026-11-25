@@ -23,6 +23,8 @@ J’ai préparé le matériel, installé l’hyperviseur et créé les machines 
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/serveurs-reconditionnes-proxmox/)
+- [Schéma du serveur et des machines virtuelles](./preuves/serveur-proxmox.svg) — schéma de principe.
+- [Préparation du serveur et installation de Proxmox](https://timothy-valentin.github.io/realisations/serveurs-reconditionnes-proxmox/#réalisation).
 
 ## 6. Compétences du bloc 1 mobilisées
 

@@ -4,7 +4,7 @@
 
 - **Auteur** — Timothy Valentin, BTS SIO option SISR.
 - **Cadre** — Stage de première année — Ministère de la Justice, DIT, Toulouse (Jolimont).
-- **Période** — Mai à juin 2026, cinq semaines.
+- **Période** — Du 25 mai au 28 juin 2026 (cinq semaines), selon le rapport de stage.
 
 ## 2. Contexte et objectifs
 
@@ -23,6 +23,9 @@ J’ai assuré le recueil des besoins, la préparation de la proposition et le d
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/deploiement-reseau-nouveau-batiment-justice/)
+- [Schéma de principe de la maquette physique](./preuves/justice-maquette.svg) — schéma de principe.
+- [Rapport de stage publié (PDF)](https://timothy-valentin.github.io/documents/rapport-de-stage-ministere-justice.pdf).
+- [Résultat de la validation sur maquette](https://timothy-valentin.github.io/realisations/deploiement-reseau-nouveau-batiment-justice/#résultat).
 
 ## 6. Compétences du bloc 1 mobilisées
 

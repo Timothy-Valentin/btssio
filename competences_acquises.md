@@ -2,7 +2,7 @@
 
 **Étudiant :** Timothy Valentin — BTS SIO option SISR, 2e année — [portfolio](https://timothy-valentin.github.io)
 
-Ce document assure la traçabilité de votre montée en compétences sur le **Bloc 1 : Support et mise à disposition de services informatiques** (Unité U4).
+Ce document assure la traçabilité de votre montée en compétences sur le **Bloc 1 : Support et mise à disposition de services informatiques** (Unité U5).
 
 > **Consignes pour l'étudiant :**
 > 1. À votre arrivée en BTS, tous les savoirs ci-dessous sont au format barré (`~~...~~`).
@@ -12,12 +12,14 @@ Ce document assure la traçabilité de votre montée en compétences sur le **Bl
 >    * Renseignez le contexte ou collez le lien vers votre fiche de situation / commit Git.
 > 3. Commitez régulièrement votre fichier (`git commit -m "docs: acquisition du savoir S4 suite TP PRA"`).
 
+[Index des réalisations et de leurs preuves techniques](./realisations/README.md#preuves-techniques-et-pièces-à-compléter) · [Bilan des écarts et préparation à l’oral](./preparation-e5.md)
+
 ---
 
 ### Activité 1.1 : Gérer le patrimoine informatique
 
 - [x] **S1 — Patrimoine informatique et système informatique :** définition, outils de gestion et de recensement des actifs (CMDB), composants matériels et logiciels.  
-  *Preuve / Contexte de validation :* TP GLPI : installation du serveur et inventaire du parc (ordinateurs, logiciels, matériels réseau) — [fiche GLPI](https://timothy-valentin.github.io/realisations/installation-glpi-ubuntu/).
+  *Preuve / Contexte de validation :* TP GLPI : installation du serveur et inventaire du parc (ordinateurs, logiciels, matériels réseau) — [fiche GLPI](https://timothy-valentin.github.io/realisations/installation-glpi-ubuntu/) et [schéma d’inventaire et de support](./realisations/gestion_de_parc/preuves/glpi-parc-assistance.svg).
 
 - [x] **S2 — Systèmes d'exploitation et gestion des habilitations :** gestion des comptes utilisateurs, droits d'accès, privilèges, groupes et politiques d'authentification.  
   *Preuve / Contexte de validation :* Comptes, groupes, unités d'organisation et GPO dans Active Directory — [fiche Réseau d'entreprise complet](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/) ; comptes utilisateurs et administrateur dans GLPI — [fiche GLPI](https://timothy-valentin.github.io/realisations/installation-glpi-ubuntu/) ; compte en lecture seule dans Graylog — [fiche Graylog](https://timothy-valentin.github.io/realisations/centralisation-logs-graylog-opensearch/).
@@ -26,7 +28,7 @@ Ce document assure la traçabilité de votre montée en compétences sur le **Bl
   *Preuve / Contexte de validation :* 
 
 - [x] **S4 — Sauvegardes et restaurations :** typologies (totale, incrémentale, différentielle), supports physiques et logiques, stratégies de sauvegarde et protocoles de test de restauration.  
-  *Preuve / Contexte de validation :* Sauvegarde des machines virtuelles depuis Proxmox VE, puis copie sur mon ordinateur personnel pour disposer d'un exemplaire hors du serveur — [fiche Réseau d'entreprise complet](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/). Test de restauration : à réaliser.
+  *Preuve / Contexte de validation :* Sauvegarde des machines virtuelles depuis Proxmox VE, puis copie sur mon ordinateur personnel pour disposer d'un exemplaire hors du serveur — [fiche Réseau d'entreprise complet](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/). [Sauvegarde documentée](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/#7-les-sauvegardes). Test de restauration à réaliser.
 
 - [ ] ~~**S5 — Cadre juridique et contractuel du patrimoine :** typologie des licences logicielles, tarification, contrats de prestation, obligations légales d'archivage des données, valeur juridique de la charte informatique et responsabilité du salarié utilisateur.~~  
   *Preuve / Contexte de validation :* 
@@ -88,4 +90,4 @@ Ce document assure la traçabilité de votre montée en compétences sur le **Bl
 ### Activité 1.6 : Organiser son développement professionnel
 
 - [x] **S18 — Veille et développement de carrière :** méthodologies de veille informationnelle et technologique, outils de curation et flux, gestion de son e-réputation et de son identité numérique professionnelle, techniques de valorisation de profil (CV, réseaux pro) et cartographie des métiers du numérique.  
-  *Preuve / Contexte de validation :* Veille sur les passkeys, méthode de veille et fil d'actualités automatisé — [page Veille](https://timothy-valentin.github.io/veille/) ; identité professionnelle : [portfolio](https://timothy-valentin.github.io), [GitHub](https://github.com/Timothy-Valentin), [LinkedIn](https://www.linkedin.com/in/timothyvalentin/).
+  *Preuve / Contexte de validation :* Veille sur les passkeys, méthode de veille et fil d'actualités automatisé — [page Veille](https://timothy-valentin.github.io/veille/) ; identité professionnelle : [portfolio](https://timothy-valentin.github.io), [GitHub](https://github.com/Timothy-Valentin), [LinkedIn](https://www.linkedin.com/in/timothyvalentin/). Le [script de veille](https://github.com/Timothy-Valentin/timothy-valentin.github.io/blob/dc1860dfe5f4720d71faf9c3963279a3db8cd54b/scripts/veille-hebdo.ts) et un [récapitulatif publié](https://github.com/Timothy-Valentin/timothy-valentin.github.io/issues/8) documentent l’automatisation de la collecte.

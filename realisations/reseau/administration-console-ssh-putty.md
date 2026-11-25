@@ -23,6 +23,8 @@ J’ai utilisé ces deux modes d’accès pour mes opérations de configuration 
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/administration-console-ssh-putty/)
+- [Procédure de console série et premiers contrôles](https://timothy-valentin.github.io/realisations/administration-console-ssh-putty/#1-accès-en-console-par-liaison-série).
+- [Procédure SSH avec PuTTY](https://timothy-valentin.github.io/realisations/administration-console-ssh-putty/#2-administration-distante-en-ssh).
 
 ## 6. Compétences du bloc 1 mobilisées
 

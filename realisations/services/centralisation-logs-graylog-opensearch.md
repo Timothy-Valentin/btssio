@@ -23,9 +23,13 @@ J’ai installé la pile, configuré la collecte et les accès, puis vérifié l
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/centralisation-logs-graylog-opensearch/)
+- [Schéma de collecte et de stockage des journaux](./preuves/graylog-centralisation.svg) — schéma de principe.
+- [Validation de la collecte](https://timothy-valentin.github.io/realisations/centralisation-logs-graylog-opensearch/#3-validation).
+- [Vérification du compte en lecture seule](https://timothy-valentin.github.io/realisations/centralisation-logs-graylog-opensearch/#sécurité-des-accès--un-compte-en-lecture-seule).
 
 ## 6. Compétences du bloc 1 mobilisées
 
+- **B1.1** — Mettre en place un accès en lecture seule et en vérifier le périmètre.
 - **B1.2** — Identifier la cause d’un incident de démarrage.
 - **B1.5** — Déployer et vérifier un service de collecte et de consultation.
 

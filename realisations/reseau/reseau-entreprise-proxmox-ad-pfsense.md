@@ -23,6 +23,9 @@ J’ai installé et configuré l’infrastructure, vérifié les services et ré
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/)
+- [Schéma Proxmox, pfSense, Active Directory, DNS et DHCP](./preuves/reseau-complet.svg) — schéma de principe.
+- [Procédure de sauvegarde et copie hors serveur](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/#7-les-sauvegardes).
+- [Vérifications du domaine et des services](https://timothy-valentin.github.io/realisations/reseau-entreprise-proxmox-ad-pfsense/#vérifications).
 
 ## 6. Compétences du bloc 1 mobilisées
 

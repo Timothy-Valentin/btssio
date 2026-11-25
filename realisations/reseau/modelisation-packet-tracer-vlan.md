@@ -23,6 +23,8 @@ J’ai conçu, configuré et vérifié la maquette dans le simulateur.
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/modelisation-packet-tracer-vlan/)
+- [Schéma des VLAN, du trunk et du routage](./preuves/packet-tracer-vlan.svg) — schéma de principe.
+- [Configuration et contrôles de la maquette](https://timothy-valentin.github.io/realisations/modelisation-packet-tracer-vlan/#réalisation).
 
 ## 6. Compétences du bloc 1 mobilisées
 

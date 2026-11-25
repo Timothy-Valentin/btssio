@@ -4,6 +4,8 @@ Bienvenue sur le dépôt de suivi pédagogique du **BTS Services Informatiques a
 
 Ce dépôt sert d'environnement de pilotage personnel tout au long des deux années de formation. Il assure la traçabilité entre vos réalisations techniques (TP, projets en atelier, stages) et les exigences de certification des épreuves nationales.
 
+[Suivi des tâches](./TODO.md) · [Réalisations et preuves](./realisations/README.md) · [Préparation E5](./preparation-e5.md)
+
 ---
 
 ## 📚 Textes Officiels & Référentiels Nationaux
@@ -19,7 +21,7 @@ Pour comprendre les attendus et les critères d'évaluation des jurys, référez
 
 Le dossier support de l'épreuve **E5 — Support et mise à disposition de services informatiques** (coefficient 4) fait l'objet d'un contrôle de conformité strict avant l'interrogation. Consultez attentivement les documents de la série **Annexe 8** :
 
-* **Annexe 8-1 (Tableau de synthèse - `.xlsx`) :** Document obligatoire récapitulant vos situations professionnelles, les compétences mobilisées du Bloc 1 et les savoirs technologiques et juridiques appliqués (**S1 à S18**).
+* **Annexe 8-1 (Tableau de synthèse - `.xlsx`) :** Document obligatoire récapitulant vos situations professionnelles, les compétences mobilisées parmi les six du Bloc 1. Le [suivi pédagogique](./competences_acquises.md) recense les savoirs **S1 à S18**.
 * **Annexe 8-2 (Contrôle de conformité) :** Risque d'attribution de la mention **« Non Valide » (NV)** en cas de dépôt hors délai, de non-respect de la durée minimale de stage (10 semaines) ou d'absence d'attestations signées.
 * **Annexe 8-3 (Grille d'aide à l'évaluation) :** Grille critériée utilisée par les examinateurs.  
   > 🚨 **Attention aux pénalités éliminatoires :**  
@@ -45,9 +47,9 @@ Le BTS SIO prépare aux métiers des infrastructures réseaux, du développement
 Le tableau de synthèse est le document d'examen officiel (format `.xlsx`) exigé par le jury pour l'épreuve E5. Il récapitule vos réalisations professionnelles et prouve que vous avez couvert la totalité des compétences du référentiel.
 
 **Votre routine de suivi :**
-1. **Téléchargement :** Récupérez la dernière version du modèle `Annexe 8-1` dans l'archive officielle du Réseau CERTA (lien en haut de ce document). 
+1. **Téléchargement :** Utilisez le modèle de votre session. Le rectorat a publié le [modèle E5 de la session 2026](https://www.toutatice.fr/portail/share/TBIRcZ?l=wNsQIf) dans l’annexe VI-1. Vérifiez la version applicable à la session 2027 auprès de l’établissement.
 2. **Stockage administratif :** Sauvegardez ce fichier hors de ce dépôt Git (sur votre espace réseau étudiant ou votre cloud personnel). Ne commitez jamais de fichier `.xlsx` dans Git.
-3. **Mise à jour continue :** À chaque fois que vous passez un savoir de `~~barré~~` à **validé** dans votre `dashboard.md`, ouvrez votre fichier Excel. Ajoutez une ligne pour le TP ou le stage concerné, et cochez les savoirs correspondants (S1 à S18).
+3. **Mise à jour continue :** Pour chaque TP ou mission de stage, mettez à jour le [suivi pédagogique des savoirs S1 à S18](./competences_acquises.md). Dans le tableau Excel, renseignez la réalisation, sa période, ses productions et les compétences mobilisées parmi les six du bloc 1.
 
 🚨 **Point de vigilance :** L'absence ou la non-conformité de ce tableau lors du dépôt officiel de votre dossier en fin de deuxième année entraîne une pénalité automatique de 2 points sur la note finale de l'épreuve E5.
 ---

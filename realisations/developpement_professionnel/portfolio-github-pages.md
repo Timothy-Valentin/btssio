@@ -23,6 +23,9 @@ J’ai défini la structure et le contenu du site, rédigé les fiches et géré
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/portfolio-github-pages/)
+- [Code source du portfolio](https://github.com/Timothy-Valentin/timothy-valentin.github.io/tree/dc1860dfe5f4720d71faf9c3963279a3db8cd54b).
+- [Déploiement GitHub Pages réussi](https://github.com/Timothy-Valentin/timothy-valentin.github.io/actions/runs/45425940937).
+- [Méthode et sources de veille](https://timothy-valentin.github.io/veille/methodologie-outils-veille/).
 
 ## 6. Compétences du bloc 1 mobilisées
 

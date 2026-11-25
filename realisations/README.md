@@ -17,3 +17,19 @@ Fiches de Timothy Valentin rédigées à partir du [modèle de situation profess
 La [fiche GLPI fournie par le professeur](./gestion_de_parc/fiche_glpi.md) est un exemple de présentation. Mon TP figure dans la fiche « Installation et paramétrage de GLPI sur Ubuntu » ci-dessus.
 
 [Tableau de suivi des compétences](../competences_acquises.md) · [Portfolio publié](https://timothy-valentin.github.io/)
+
+## Preuves techniques et pièces à compléter
+
+Les six schémas de principe sont archivés avec les fiches. Leur version d’origine est accessible dans les [sources du portfolio](https://github.com/Timothy-Valentin/timothy-valentin.github.io/tree/dc1860dfe5f4720d71faf9c3963279a3db8cd54b/src/assets/schemas). Les fiches renvoient aussi aux procédures, aux résultats documentés et aux productions vérifiables en ligne.
+
+| Réalisation | Justificatif à ajouter au dossier |
+| --- | --- |
+| [GLPI sur Ubuntu](./gestion_de_parc/installation-glpi-ubuntu.md#5-livrables-et-preuves-associées) | Ticket test et inventaire exporté ou capture anonymisée. |
+| [Réseau virtualisé Proxmox, AD et pfSense](./reseau/reseau-entreprise-proxmox-ad-pfsense.md#5-livrables-et-preuves-associées) | Trace de sauvegarde et compte rendu du test de restauration, à effectuer. |
+| [VLAN, routage et DHCP sur Packet Tracer](./reseau/modelisation-packet-tracer-vlan.md#5-livrables-et-preuves-associées) | Fichier Packet Tracer (.pkt) ou export des tests. |
+| [Administration d’équipements en console et SSH](./reseau/administration-console-ssh-putty.md#5-livrables-et-preuves-associées) | Trace anonymisée d’une intervention effectuée. |
+| [Serveur reconditionné et Proxmox VE](./gestion_de_parc/serveurs-reconditionnes-proxmox.md#5-livrables-et-preuves-associées) | Inventaire matériel ou capture de l’hyperviseur et des VM. |
+| [Centralisation des journaux avec Graylog](./services/centralisation-logs-graylog-opensearch.md#5-livrables-et-preuves-associées) | Événements ou résultats de tests exportés et anonymisés. |
+| [Publication du portfolio sur GitHub Pages](./developpement_professionnel/portfolio-github-pages.md#5-livrables-et-preuves-associées) | Mesure de visibilité ou réalisation menée pour une organisation, si valorisée en B1.3. |
+| [Entraînement réseau sur Root-Me](./developpement_professionnel/root-me-analyse-protocoles-en-clair.md#5-livrables-et-preuves-associées) | Trace datée de progression pour conserver l’état du bilan. |
+| [Étude réseau et validation d’une maquette judiciaire](./reseau/deploiement-reseau-nouveau-batiment-justice.md#5-livrables-et-preuves-associées) | Attestation signée et bilans hebdomadaires à conserver avec le dossier de stage. |

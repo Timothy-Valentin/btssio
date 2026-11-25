@@ -23,6 +23,8 @@ J’ai pris en charge l’installation, le paramétrage et la simulation du supp
 ## 5. Livrables et preuves associées
 
 - [Fiche détaillée sur mon portfolio](https://timothy-valentin.github.io/realisations/installation-glpi-ubuntu/)
+- [Schéma de l’environnement GLPI et du circuit des tickets](./preuves/glpi-parc-assistance.svg) — schéma de principe.
+- [Cycle du ticket et résultats de la simulation](https://timothy-valentin.github.io/realisations/installation-glpi-ubuntu/#la-vie-dun-ticket).
 
 ## 6. Compétences du bloc 1 mobilisées
 
