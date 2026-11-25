@@ -1,11 +1,13 @@
 # Mes réalisations BTS SIO SISR
 
+[Réalisation présentée et preuves](./index.md)
+
 Fiches de Timothy Valentin rédigées à partir du [modèle de situation professionnelle](../templates/fiche_siuation_template.md). Chaque fiche renvoie à la réalisation détaillée sur le portfolio.
 
 | Réalisation | Cadre |
 | --- | --- |
 | [Installation et paramétrage de GLPI sur Ubuntu](./gestion_de_parc/installation-glpi-ubuntu.md) | TP de formation — lycée Henri Matisse |
-| [Étude des besoins réseau et validation sur maquette pour un bâtiment judiciaire](./reseau/deploiement-reseau-nouveau-batiment-justice.md) | Stage de première année — Ministère de la Justice, DIT, Toulouse (Jolimont) |
+| [Étude des besoins réseau et validation sur maquette pour un bâtiment judiciaire](./stage_justice/fiche_stage_justice.md) | Stage de première année — Ministère de la Justice, DIT, Toulouse (Jolimont) |
 | [Mise en place d’un réseau d’entreprise virtualisé](./reseau/reseau-entreprise-proxmox-ad-pfsense.md) | TP de formation — lycée Henri Matisse |
 | [Segmentation VLAN, routage inter-VLAN et DHCP sur Packet Tracer](./reseau/modelisation-packet-tracer-vlan.md) | TP de formation — lycée Henri Matisse |
 | [Administration d’équipements en console série et en SSH](./reseau/administration-console-ssh-putty.md) | Formation BTS SIO SISR et stage |
@@ -32,4 +34,4 @@ Les six schémas de principe sont archivés avec les fiches. Leur version d’or
 | [Centralisation des journaux avec Graylog](./services/centralisation-logs-graylog-opensearch.md#5-livrables-et-preuves-associées) | Événements ou résultats de tests exportés et anonymisés. |
 | [Publication du portfolio sur GitHub Pages](./developpement_professionnel/portfolio-github-pages.md#5-livrables-et-preuves-associées) | Mesure de visibilité ou réalisation menée pour une organisation, si valorisée en B1.3. |
 | [Entraînement réseau sur Root-Me](./developpement_professionnel/root-me-analyse-protocoles-en-clair.md#5-livrables-et-preuves-associées) | Trace datée de progression pour conserver l’état du bilan. |
-| [Étude réseau et validation d’une maquette judiciaire](./reseau/deploiement-reseau-nouveau-batiment-justice.md#5-livrables-et-preuves-associées) | Attestation signée et bilans hebdomadaires à conserver avec le dossier de stage. |
+| [Étude réseau et validation d’une maquette judiciaire](./stage_justice/fiche_stage_justice.md#5-livrables-et-preuves-associées) | Attestation signée et bilans hebdomadaires à conserver avec le dossier de stage. |
